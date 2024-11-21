@@ -114,3 +114,5 @@ public class Que1 {
     
     
 }
+//Time complexity: The time complexity of merge sort is always O(n log n), while the time complexity of quicksort varies between O(n log n) in the best case to O(n2) in the worst case. 
+// Space complexity: Quick sort has a space complexity of O(log n), while merge sort requires O(n) additional space to merge the sorted sub-arrays.
